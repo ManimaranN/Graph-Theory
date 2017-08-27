@@ -11,3 +11,15 @@ for i in range(0,n):
 print(dot.source)  # doctest: +NORMALIZE_WHITESPACE
 dot.save('file.gv')
 dot.render('file.gv', view=True)
+
+
+'''Sample Input
+
+Enter no.of Edges : 5
+1 1 a
+1 2 b
+1 2 c
+2 3 d
+1 3 e
+
+'''
