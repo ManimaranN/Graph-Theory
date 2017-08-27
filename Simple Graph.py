@@ -13,3 +13,14 @@ print nx.info(g)
 nx.draw(g, with_labels=True)
 
 plt.show()
+
+'''Sample Input
+
+Enter no.of Edges : 5
+1 2
+2 3
+3 4
+4 5
+1 5
+
+                            '''
