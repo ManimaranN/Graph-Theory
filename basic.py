@@ -13,7 +13,7 @@ dot.save('file.gv')
 dot.render('file.gv', view=True)
 
 
-'''Sample Input
+'''Sample Input ,Format : node1 node2 label_of_edge 
 
 Enter no.of Edges : 5
 1 1 a
