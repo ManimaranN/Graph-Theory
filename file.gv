@@ -1,0 +1,6 @@
+// Graph
+graph {
+	a -- b [label=y]
+	b -- c [label=x]
+	c -- d [label=m]
+}
